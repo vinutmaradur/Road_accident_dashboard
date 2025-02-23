@@ -62,12 +62,6 @@ The dataset contains information on road accidents, including date, location, ve
 
 ---
 
-## For Live Dashboard check this
-
-  📊 **Live Dashboard**: [Click here to view](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjsy36Ec7HnIvHwoDT05ERC-aULtmjYZqMjh5arYZE_oAK-f5ipmuFLCT6TLXVlA/pubhtml)
-  
----
-
 ## Future Enhancements
 
 - Integrating real-time accident data for live monitoring.
